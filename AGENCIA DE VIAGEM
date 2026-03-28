@@ -1,0 +1,20 @@
+Parte 1: Escolha do Destino
+Peça ao usuário:
+Nome do destino
+Quantidade de pessoas
+
+
+Parte 2: Cálculo do Valor
+Calcule:
+Valor total da viagem (preço * pessoas)
+
+
+Parte 3: Regras da Agência (SEM if, SEM loop)
+
+Aplique:
+Se pessoas > 3 → desconto de 10%
+Se valor total > 10000 → desconto extra de 5%
+Se não houver vagas suficientes → taxa de 500 (overbooking)
+Se destino não existir → valor vira 0
+
+
